@@ -73,7 +73,7 @@ void complicated_sentence(char *buffer) {
     sprintf(buffer, "%s %s %s", np, vp, pp);
 }
 
-// ---- MAIN ----
+// MAIN
 int main() {
     srand(time(NULL));
 
