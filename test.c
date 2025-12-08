@@ -1,3 +1,5 @@
+//Idan Haimovich, 🎯 HONORS ONLY: "Optional" Unit 1 Project from BJC (not optional for Honors students)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
